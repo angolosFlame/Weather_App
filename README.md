@@ -16,13 +16,13 @@ I had challenges with the Betty linter approving the Betty code styling which I 
 I had some indentation errors which is being fixed
 API generation was seamless however, i hit a snag with the url which is currently resolved with some meticulous research
 I had a compilation challenge because of URL definition issues. 
-An https url contains several characters that make she sees it as a character for expansion which tends to impede the exact meaning of the url string. 
+An https url contains several characters that makes shell sees it as a character for expansion which tends to impede the exact meaning of the url string. 
 
 
 Collaboration/Communication
 
 Before I jumped on this final project, I had a discussion with a peer about a list of projects I would like to try my hands on. 
-However he indicated that I had powerful ideas but because of the limited time to execute the project task I should focus on something lighter such as building 
+However he indicated that I had powerful ideas but because of the limited time to execute the project, task I should focus on something lighter such as building 
 with a few features and then add more afterwards. I was happy and took his advice in whole. 
 Additionally he was excited about the task at hand. He said “For sure, I feel like I'll only start calling myself a software developer after putting some products out there”. 
 

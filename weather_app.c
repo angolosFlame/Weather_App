@@ -2,10 +2,15 @@
 #include <stdlib.h>
 #include <string.h>
 #include <curl/curl.h>
+/**
+ * This is an app to diplay the weather conditions of a given city
+ * The app uses an API and url to access a free weather site to call 
+ * this information.
+ */
 
 /* This is where the Stormglass' actual OpenWeatherMap API key goes */
 #define API_KEY "f511eca8-c0f8-11ee-84d9-0242ac130002-f511ed16-c0f8-11ee-84d9-0242ac130002"
-#define API_URL "http://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s"
+#define API_URL "http://api.stormglass.io/data/v2/weather?q=%s&appid=%s"
 
 /* Structure to hold the HTTP response data */
 typedef struct {
